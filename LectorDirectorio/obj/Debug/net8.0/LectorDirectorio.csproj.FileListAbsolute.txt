@@ -1,0 +1,15 @@
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.exe
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.deps.json
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.runtimeconfig.json
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.dll
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.pdb
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfo.cs
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.sourcelink.json
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.dll
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\refint\LectorDirectorio.dll
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.pdb
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.genruntimeconfig.cache
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorDirectorio\obj\Debug\net8.0\ref\LectorDirectorio.dll
