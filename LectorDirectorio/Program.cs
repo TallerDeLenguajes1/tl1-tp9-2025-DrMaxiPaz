@@ -32,13 +32,11 @@ for (int i = 0; i < nombresArchivos.Length; i++)
 
 
 FileInfo reporte = new(directorio + "/reporte_archivos.csv");
-using (StreamWriter sw = File.CreateText("C:/Users/maxi0/Documents/facultad/tercer_anio/taller1/practica/tl1-tp9-2025-DrMaxiPaz/LectorDirectorio"))
+using (StreamWriter sw = File.CreateText(reporte.FullName))
 {
-    sw.WriteLine($"Nombre del archivo: reporte_archivos.csv");
+    sw.WriteLine($"Nombre del archivo: {reporte.Name}");
     sw.WriteLine($"Tamaño del archivo:" + reporte.Length + " bytes");
     sw.WriteLine($"Fecha de creación: {reporte.LastWriteTime}");
 }
-
-
 
 Console.WriteLine("\nFin de la lectura...\n");
