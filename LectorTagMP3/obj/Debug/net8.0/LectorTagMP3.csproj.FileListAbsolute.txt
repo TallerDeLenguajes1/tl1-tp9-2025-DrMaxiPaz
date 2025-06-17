@@ -1,0 +1,15 @@
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.exe
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.deps.json
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.runtimeconfig.json
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.dll
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.pdb
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.AssemblyInfoInputs.cache
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.AssemblyInfo.cs
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.csproj.CoreCompileInputs.cache
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.sourcelink.json
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.dll
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\refint\LectorTagMP3.dll
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.pdb
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.genruntimeconfig.cache
+C:\Users\maxi0\Documents\facultad\tercer_anio\taller1\practica\tl1-tp9-2025-DrMaxiPaz\LectorTagMP3\obj\Debug\net8.0\ref\LectorTagMP3.dll
